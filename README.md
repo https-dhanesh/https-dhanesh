@@ -18,7 +18,7 @@ I enjoy working on real-world challenges that blend **backend architecture, clou
 ---
 
 ### 🚀 What I'm Working On
-- 🔭 Building: [**Coworking Platform**](https://coworkingplatform.vercel.app/)  
+- 🔭 Building: [**Coworking Platform**](https://coworking-platform-two.vercel.app/) 
 - 🌱 Learning: **Jenkins** and **Cloud-Native CI/CD Pipelines**  
 - 👯 Open to collaborate on: **Cloud Native Projects**  
 - 🤝 Seeking help with: **Advanced DevOps Automation**  
@@ -31,7 +31,7 @@ I enjoy working on real-world challenges that blend **backend architecture, clou
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🏢 [**Coworking Platform**](https://coworkingplatform.vercel.app/) | Platform for managing shared workspace bookings | React, Node.js, PostgreSQL|
+| 🏢 [**Coworking Platform**](https://coworking-platform-two.vercel.app/) | Platform for managing shared workspace bookings | React, Node.js, PostgreSQL|
 | ❤️ [**Heart Attack Prediction**](https://github.com/https-dhanesh/Heart_Attack_Prediction-ML) | ML-powered web app to predict heart attack risk | Python, Flask, Machine Learning |
 | 🏏 [**World Cup 2023 Fixtures**](https://github.com/https-dhanesh/World_Cup_2023_Fixtures) | Dynamic web app showing World Cup 2023 match fixtures | Java (Swing) , MySQL |
 
