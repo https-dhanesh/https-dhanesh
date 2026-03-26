@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanesh Shingade</h1>
+<h1 align="center">Hi , I'm Dhanesh Shingade</h1>
 <h3 align="center">💻 Full Stack Developer | ☁️ Cloud Enthusiast | ⚙️ DevOps Learner</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 I'm a **Full Stack Developer** who loves building systems that are **fast, scalable, and cloud-ready**.  
 I enjoy working on real-world challenges that blend **backend architecture, cloud infrastructure**, and **user experience design** — aiming to deliver meaningful impact through code.
 
