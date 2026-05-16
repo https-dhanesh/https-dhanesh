@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=DHANESH%20SHINGADE&height=100&fontSize=55&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20DevOps%20Learner&descSize=18&descAlign=50&descAlignY=75&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=DHANESH%20SHINGADE&height=160&fontSize=55&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20DevOps%20Learner&descSize=18&descAlign=50&descAlignY=78&descColor=ffffff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up;Cloud-Native+%7C+Microservices+%7C+CI%2FCD+%7C+GenAI;Turning+complex+problems+into+elegant+solutions;Open+to+collaborate+on+impactful+cloud+projects)](https://git.io/typing-svg)
 
