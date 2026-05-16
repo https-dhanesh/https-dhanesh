@@ -92,15 +92,15 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 &nbsp;<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ---
-
-### Classifieds App Base
-`Next.js` `React Native` `Node.js` `Supabase` `TypeScript` &nbsp;·&nbsp; *Mar 2026*
-
-- Architected a cross-platform monorepo using shared TypeScript types, reducing development overhead by **30%** across Web and Mobile (Expo) platforms.
-- Created a PostgreSQL schema and RESTful API layer ensuring data consistency for **1,000+ potential concurrent listings**.
-
-<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
-
+ 
+### GitOps & Kubernetes Pipeline
+`Kind` `ArgoCD` `Docker` `Nginx Ingress` &nbsp;·&nbsp; *Feb 2026*
+ 
+- Architected a multi-node Kind cluster to simulate a high-availability production environment locally.
+- Automated application lifecycle management using ArgoCD, ensuring **100% Git-to-Cluster synchronization**.
+- Configured Nginx Ingress for local DNS mapping and efficient traffic routing across containerized services.
+<a href="https://github.com/https-dhanesh/devops-go-web-app"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+ 
 ---
 
 ### CloudCost-Wise: DevSecOps Pipeline
