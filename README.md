@@ -1,69 +1,172 @@
-<h1 align="center">Hi , I'm Dhanesh Shingade</h1>
-<h3 align="center">💻 Full Stack Developer | ☁️ Cloud Enthusiast | ⚙️ DevOps Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+to+build+scalable+systems;Lifelong+learner+of+Cloud+and+DevOps;Turning+ideas+into+reality+with+code" alt="Typing SVG" />
-</p>
+```
+██████╗ ██╗  ██╗ █████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
+██╔══██╗██║  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██║  ██║
+██║  ██║███████║███████║██╔██╗ ██║█████╗  ███████╗███████║
+██║  ██║██╔══██║██╔══██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
+██████╔╝██║  ██║██║  ██║██║ ╚████║███████╗███████║██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=https-dhanesh&label=Profile%20views&color=0e75b6&style=flat" alt="https-dhanesh" /> 
-</p>
+### `> whoami`
+**Full Stack Developer · Cloud Architect · DevOps Learner**
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up+%F0%9F%9A%80;Cloud-native+%7C+Microservices+%7C+CI%2FCD+%7C+AI+%7C+DevOps;Turning+complex+problems+into+elegant+solutions+%E2%9C%A8;Open+to+collaborate+on+impactful+cloud+projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-###  About Me
-I'm a **Full Stack Developer** who loves building systems that are **fast, scalable, and cloud-ready**.  
-I enjoy working on real-world challenges that blend **backend architecture, cloud infrastructure**, and **user experience design** — aiming to deliver meaningful impact through code.
+[![Profile Views](https://komarev.com/ghpvc/?username=https-dhanesh&label=👁️+Profile+Views&color=00d9ff&style=flat-square)](https://github.com/https-dhanesh)
+[![Email](https://img.shields.io/badge/📫-dhanesh2435%40gmail.com-00d9ff?style=flat-square)](mailto:dhanesh2435@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhanesh-shingade-57954124b)
 
----
-
-### What I'm Working On
-- 🔭 Building: [**Coworking Platform**](https://co-working-platform.vercel.app/) 
-- 🌱 Learning: **Jenkins** and **Cloud-Native CI/CD Pipelines**  
-- 👯 Open to collaborate on: **Cloud Native Projects**  
-- 🤝 Seeking help with: **Advanced DevOps Automation**  
-- 💬 Ask me about: **AWS**, **System Design**, **Full Stack Development**  
-- 📫 Reach me at: **dhanesh2435@gmail.com**
+</div>
 
 ---
 
-### 🏆 My Top Projects
+## `$ cat about_me.txt`
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-|  [**Coworking Platform**](https://co-working-platform.vercel.app/) | Platform for managing shared workspace bookings | React, Node.js, PostgreSQL|
-|  [**Cloud-Native Microservices**](https://github.com/https-dhanesh/Fitness_Advisor_MicroServices) |  Multi-service springboot application | AWS EKS, Apache Kafka, Keycloak, Springboot|
-|  [**Cardio Advisor AI**](https://github.com/https-dhanesh/Cardio_Advisor_AI) | Dynamic web app showing World Cup 2023 match fixtures | FastAPI, Llama 3 (GenAI), RAG, XGBoost, Docker |
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/dhanesh-shingade-57954124b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/dhanesh_shingade_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhanesh_56" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+```yaml
+name        : Dhanesh Shingade
+role        : Full Stack Developer
+location    : India 🇮🇳
+focus       : [Cloud, DevOps, System Design, AI Integration]
+currently   : Building → Coworking Platform | Learning → Jenkins & CI/CD
+mindset     : "Ship it. Scale it. Iterate."
+open_to     : Cloud-Native Collaborations & Advanced DevOps Projects
+fun_fact    : I treat infrastructure like code — version-controlled & reproducible 🧬
+```
 
 ---
 
-### 🧰 Languages and Tools
+## `$ ls -la ./skills/`
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3-FF6B35?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Architecture-6C3483?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-E63946?style=for-the-badge)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## `$ cat ./projects/top_picks.json`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=https-dhanesh&langs_count=6&hide=Python&show_icons=true&locale=en&layout=compact&theme=default" alt="https-dhanesh" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https-dhanesh&show_icons=true&locale=en" alt="https-dhanesh" /></p>
+```json
+[
+  {
+    "name": "🏢 Coworking Platform",
+    "url": "https://co-working-platform.vercel.app/",
+    "description": "End-to-end platform for managing shared workspace bookings",
+    "stack": ["React", "Node.js", "PostgreSQL"],
+    "status": "🟢 Live",
+    "highlight": "Real-time seat management + booking dashboard"
+  },
+  {
+    "name": "⚙️ Cloud-Native Microservices",
+    "url": "https://github.com/https-dhanesh/Fitness_Advisor_MicroServices",
+    "description": "Production-grade multi-service Spring Boot app on AWS EKS",
+    "stack": ["AWS EKS", "Apache Kafka", "Keycloak", "Spring Boot"],
+    "status": "🔵 Open Source",
+    "highlight": "Event-driven architecture with Kafka + Keycloak auth"
+  },
+  {
+    "name": "❤️ Cardio Advisor AI",
+    "url": "https://github.com/https-dhanesh/Cardio_Advisor_AI",
+    "description": "AI-powered cardiovascular health advisor using RAG + LLMs",
+    "stack": ["FastAPI", "Llama 3", "RAG", "XGBoost", "Docker"],
+    "status": "🔵 Open Source",
+    "highlight": "Combines GenAI + ML for personalized health insights"
+  }
+]
+```
 
 ---
 
+## `$ ./stats.sh --username https-dhanesh`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dhanesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dhanesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&hide=python"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=https-dhanesh&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<h3 align="center">✨ "Code. Create. Contribute. Continuously." ✨</h3>
+## `$ ./activity_graph.sh`
+
+<div align="center">
+
+[![Dhanesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=https-dhanesh&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `$ ping connect.dhanesh.dev`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanesh-shingade-57954124b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhanesh_shingade_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/dhanesh_56)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanesh2435@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."      ║
+║                                          — John Johnson  ║
+╠══════════════════════════════════════════════════════════╣
+║       Code  ·  Create  ·  Contribute  ·  Continuously   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+*Thanks for stopping by — let's build something great together! 🚀*
+
+</div>
