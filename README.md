@@ -113,44 +113,35 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-<!--  Stats via ghchart — reliable, no rate limits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https-dhanesh&theme=github_dark" width="100%" alt="Profile Summary"/>
+<!-- GitHub WidgetBox — no rate limits, always works -->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=https-dhanesh&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https-dhanesh&theme=github_dark" width="32%" alt="Repos Per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https-dhanesh&theme=github_dark" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=https-dhanesh&theme=github_dark" width="32%" alt="Stats"/>
-
-<br/><br/>
-
-<!-- Streak — demolab is the most reliable streak host -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=https-dhanesh&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+<!-- Streak — demolab, most stable streak host -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=https-dhanesh&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `$ git log --oneline --graph` *(3D Isometric View)*
+## `$ ./trophies.sh --hall-of-fame`
 
 <div align="center">
 
-<!--
-  🚀 SETUP REQUIRED for the isometric 3D calendar:
-  This is the most unique stat widget on GitHub — almost no profiles use it!
+<!-- GitHub Trophies — dark themed, reliable Vercel deployment -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=https-dhanesh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-  Quick setup (5 min):
-  1. Go to: https://metrics.lecoq.io/
-  2. Enter your username: https-dhanesh
-  3. Enable plugin: "Isometric calendar"
-  4. Click "Generate" → copy the SVG link
-  5. Replace the URL below with YOUR generated link
+</div>
 
-  OR use GitHub Actions (recommended for always-fresh data):
-  https://github.com/lowlighter/metrics#-using-github-actions
--->
+---
 
-![Metrics](https://metrics.lecoq.io/https-dhanesh?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.display=large)
+## `$ ./leetcode.sh --user dhanesh_56`
+
+<div align="center">
+
+<!-- LeetCode Stats — extremely rare on GitHub profiles, very unique -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dhanesh_56?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/dhanesh_56)
 
 </div>
 
