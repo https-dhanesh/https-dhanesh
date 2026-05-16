@@ -113,32 +113,44 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dhanesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&cache_seconds=1800" alt="Dhanesh's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dhanesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&hide=python&cache_seconds=1800" alt="Top Languages"/>
+<!--  Stats via ghchart — reliable, no rate limits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=https-dhanesh&theme=github_dark" width="100%" alt="Profile Summary"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=https-dhanesh&theme=github_dark" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=https-dhanesh&theme=github_dark" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=https-dhanesh&theme=github_dark" width="32%" alt="Stats"/>
 
 <br/><br/>
 
+<!-- Streak — demolab is the most reliable streak host -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=https-dhanesh&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `$ ./achievements.sh`
+## `$ git log --oneline --graph` *(3D Isometric View)*
 
 <div align="center">
 
-| 🏅 Metric | 📊 Value |
-|:---------:|:--------:|
-| 🔭 Projects Shipped | 3+ Live / Open Source |
-| ☁️ Cloud Platform | AWS (EKS, EC2, S3, IAM) |
-| 🔧 Microservices Built | Multi-service Spring Boot on K8s |
-| 🤖 AI Models Integrated | Llama 3, XGBoost, RAG Pipeline |
-| 🚀 CI/CD Tools | Docker · Jenkins · GitHub Actions |
-| 📡 Event Streaming | Apache Kafka |
-| 🔐 Auth & Security | Keycloak, JWT |
-| 💬 Ask Me About | AWS · System Design · Full Stack |
+<!--
+  🚀 SETUP REQUIRED for the isometric 3D calendar:
+  This is the most unique stat widget on GitHub — almost no profiles use it!
+
+  Quick setup (5 min):
+  1. Go to: https://metrics.lecoq.io/
+  2. Enter your username: https-dhanesh
+  3. Enable plugin: "Isometric calendar"
+  4. Click "Generate" → copy the SVG link
+  5. Replace the URL below with YOUR generated link
+
+  OR use GitHub Actions (recommended for always-fresh data):
+  https://github.com/lowlighter/metrics#-using-github-actions
+-->
+
+![Metrics](https://metrics.lecoq.io/https-dhanesh?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.display=large)
 
 </div>
 
@@ -168,10 +180,6 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 <br/>
 
 **✦ &nbsp; Code &nbsp;·&nbsp; Create &nbsp;·&nbsp; Contribute &nbsp;·&nbsp; Continuously &nbsp; ✦**
-
-<br/>
-
-*Thanks for stopping by — let's build something great together! 🚀*
 
 <br/>
 
