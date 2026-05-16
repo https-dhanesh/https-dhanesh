@@ -88,7 +88,7 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 - Architected a marketplace reducing redundant API calls by **90%** through TanStack Query caching across 15+ reusable components.
 - Developed a robust booking engine with **10+ RESTful endpoints**, implementing secure authentication and business logic.
 
-<a href="https://co-working-platform.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0077B5?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo"/></a>
+<a href="https://coworking.dhanesh.in"><img src="https://img.shields.io/badge/Live_Demo-0077B5?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo"/></a>
 &nbsp;<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ---
