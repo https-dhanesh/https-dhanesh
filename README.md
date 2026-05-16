@@ -88,8 +88,8 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 - Architected a marketplace reducing redundant API calls by **90%** through TanStack Query caching across 15+ reusable components.
 - Developed a robust booking engine with **10+ RESTful endpoints**, implementing secure authentication and business logic.
 
-<a href="https://co-working-platform.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logo=vercel&logoColor=black"/></a>
-<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://coworking.dhanesh.in"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logo=vercel&logoColor=black"/></a>
+<a href="https://github.com/https-dhanesh/Coworking-platform"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -109,7 +109,7 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 - Designed and deployed a microservices architecture on **AWS EKS** using Terraform, ensuring high availability and secure network isolation.
 - Integrated automated security gates using **Trivy** and RSA encryption to enforce software integrity across the full development lifecycle.
 
-<a href="https://github.com/https-dhanesh/Fitness_Advisor_MicroServices"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/https-dhanesh/Cloud_Cost_Wise"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
