@@ -1,18 +1,12 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██║  ██║
-██║  ██║███████║███████║██╔██╗ ██║█████╗  ███████╗███████║
-██║  ██║██╔══██║██╔══██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
-██████╔╝██║  ██║██║  ██║██║ ╚████║███████╗███████║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header" width="100%"/>
 
-### `> whoami`
-**Full Stack Developer · Cloud Architect · DevOps Learner**
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=DHANESH%20SHINGADE&height=100&fontSize=55&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Cloud%20Architect%20%C2%B7%20DevOps%20Learner&descSize=18&descAlign=50&descAlignY=75&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up+%F0%9F%9A%80;Cloud-native+%7C+Microservices+%7C+CI%2FCD+%7C+AI+%7C+DevOps;Turning+complex+problems+into+elegant+solutions+%E2%9C%A8;Open+to+collaborate+on+impactful+cloud+projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up+%F0%9F%9A%80;Cloud-Native+%7C+Microservices+%7C+CI%2FCD+%7C+GenAI;Turning+complex+problems+into+elegant+solutions+%E2%9C%A8;Open+to+collaborate+on+impactful+cloud+projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=https-dhanesh&label=👁️+Profile+Views&color=00d9ff&style=flat-square)](https://github.com/https-dhanesh)
 [![Email](https://img.shields.io/badge/📫-dhanesh2435%40gmail.com-00d9ff?style=flat-square)](mailto:dhanesh2435@gmail.com)
@@ -69,12 +63,12 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🤖 AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3-FF6B35?style=for-the-badge)
+![Llama 3](https://img.shields.io/badge/Llama_3-FF6B35?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-6C3483?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/XGBoost-E63946?style=for-the-badge)
 
@@ -119,25 +113,32 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dhanesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=https-dhanesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&cache_seconds=1800" alt="Dhanesh's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dhanesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&hide=python&cache_seconds=1800" alt="Top Languages"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-dhanesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&hide=python"/>
+<br/><br/>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=https-dhanesh&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=https-dhanesh&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## `$ ./activity_graph.sh`
+## `$ ./achievements.sh`
 
 <div align="center">
 
-[![Dhanesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=https-dhanesh&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| 🏅 Metric | 📊 Value |
+|:---------:|:--------:|
+| 🔭 Projects Shipped | 3+ Live / Open Source |
+| ☁️ Cloud Platform | AWS (EKS, EC2, S3, IAM) |
+| 🔧 Microservices Built | Multi-service Spring Boot on K8s |
+| 🤖 AI Models Integrated | Llama 3, XGBoost, RAG Pipeline |
+| 🚀 CI/CD Tools | Docker · Jenkins · GitHub Actions |
+| 📡 Event Streaming | Apache Kafka |
+| 🔐 Auth & Security | Keycloak, JWT |
+| 💬 Ask Me About | AWS · System Design · Full Stack |
 
 </div>
 
@@ -158,15 +159,22 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."      ║
-║                                          — John Johnson  ║
-╠══════════════════════════════════════════════════════════╣
-║       Code  ·  Create  ·  Contribute  ·  Continuously   ║
-╚══════════════════════════════════════════════════════════╝
-```
+<br/>
+
+> **"First, solve the problem. Then, write the code."**
+>
+> *— John Johnson*
+
+<br/>
+
+**✦ &nbsp; Code &nbsp;·&nbsp; Create &nbsp;·&nbsp; Contribute &nbsp;·&nbsp; Continuously &nbsp; ✦**
+
+<br/>
 
 *Thanks for stopping by — let's build something great together! 🚀*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
