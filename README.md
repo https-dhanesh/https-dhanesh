@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=https-dhanesh&label=👁️+Profile+Views&color=00d9ff&style=flat-square)](https://github.com/https-dhanesh)
-[![Email](https://img.shields.io/badge/📫-dhanesh2435%40gmail.com-00d9ff?style=flat-square)](mailto:dhanesh2435@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=https-dhanesh&label=👁️+Profile+Views&color=0077B5&style=flat-square)](https://github.com/https-dhanesh)
+[![Email](https://img.shields.io/badge/📫-dhanesh2435%40gmail.com-0077B5?style=flat-square)](mailto:dhanesh2435@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhanesh-shingade-57954124b)
 
 </div>
