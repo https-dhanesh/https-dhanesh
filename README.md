@@ -88,8 +88,8 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 - Architected a marketplace reducing redundant API calls by **90%** through TanStack Query caching across 15+ reusable components.
 - Developed a robust booking engine with **10+ RESTful endpoints**, implementing secure authentication and business logic.
 
-<a href="https://coworking.dhanesh.in"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logo=vercel&logoColor=black"/></a>
-<a href="https://github.com/https-dhanesh/Coworking-platform"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://co-working-platform.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00d9ff?style=flat-square&logo=vercel&logoColor=black" alt="Live Demo"/></a>
+&nbsp;<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ---
 
@@ -99,7 +99,7 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 - Architected a cross-platform monorepo using shared TypeScript types, reducing development overhead by **30%** across Web and Mobile (Expo) platforms.
 - Created a PostgreSQL schema and RESTful API layer ensuring data consistency for **1,000+ potential concurrent listings**.
 
-<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/https-dhanesh"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ---
 
@@ -109,7 +109,7 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 - Designed and deployed a microservices architecture on **AWS EKS** using Terraform, ensuring high availability and secure network isolation.
 - Integrated automated security gates using **Trivy** and RSA encryption to enforce software integrity across the full development lifecycle.
 
-<a href="https://github.com/https-dhanesh/Cloud_Cost_Wise"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/https-dhanesh/Fitness_Advisor_MicroServices"><img src="https://img.shields.io/badge/Source_Code-grey?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
 
 ---
 
@@ -117,11 +117,15 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=https-dhanesh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox"/>
+<picture>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=https-dhanesh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Stats"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=https-dhanesh&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak"/>
+<picture>
+  <img src="https://streak-stats.demolab.com?user=https-dhanesh&theme=dark&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak Stats"/>
+</picture>
 
 </div>
 
@@ -131,7 +135,10 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=https-dhanesh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<!-- rank=-C,-B hides low/unknown trophies; rank=-? removes "Unknown" ones -->
+<picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=https-dhanesh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-C,-B,-?" alt="GitHub Trophies"/>
+</picture>
 
 </div>
 
@@ -141,7 +148,9 @@ fun_fact    : I treat infrastructure like code — version-controlled & reproduc
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/dhanesh_56?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+<picture>
+  <img src="https://leetcard.jacoblin.cool/dhanesh_56?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</picture>
 
 </div>
 
